@@ -2,8 +2,7 @@
 Design and implement IP networks
 Cabling & WiFi, LAN Architecture, WAN architecture, NAT/PAT/DHCP and Security.
 
-<h3>Official FaceRIM web app</h3>
-for more information about this Project : <br> 
+for more information about this Project :
 <a href='https://github.com/HeiballaAbdellahi'>https://github.com/HeiballaAbdellahi/</a>
 <hr>
 <h3 style="color: black;font-size: auto;">Abstract</h3>
